@@ -54,7 +54,7 @@ import java.util.regex.*; //para expressões regulares
 
 // quero saber se o número N é Weird(esquisito) ou não Not Weird, conforme as regras 
 
-public class welcomeIfElse {
+public class welcomeIfElse03 {
 
     private static final Scanner scanner = new Scanner(System.in); //cria um scanner global para ler da entrada padrão(system.in), limita o acesso (private), permite o uso de instâncias( static) e impede alteração (final)  
 
