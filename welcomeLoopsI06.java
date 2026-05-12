@@ -71,7 +71,7 @@ public class welcomeLoopsI06 {
 
         }
 
-        bufferedReader.close(); // fecha o objeto
+        bufferedReader.close(); // fecha o objetos
         
 
     }
