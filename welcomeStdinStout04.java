@@ -70,6 +70,8 @@ public class welcomeStdinStout04{
         System.out.println("Double: " + numerodecimal);
         System.out.println("Int: " + inteiro);
 
+        scanner.close();
+
     }
 
     
